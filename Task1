@@ -1,0 +1,41 @@
+ <!DOCTYPE html>
+<html>
+<body>
+
+<center><h1>Broadcast or communicative?</h1></center>
+<center>
+<!-- circle-->
+<svg width="1000" height="350">
+  <!-- Arrows -->
+
+ <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="0" refY="3" orient="auto" markerUnits="strokeWidth" viewBox="0 0 20 20">
+	<path d="M0,0 L0,6 L9,3 z" fill="black" />
+	</marker>
+ </defs>
+  <line x1="500" y1="50" x2="248" y2="195" stroke="#000" stroke-width="3" marker-end="url(#arrow)" />
+  <line x1="500" y1="50" x2="330" y2="215" stroke="#000" stroke-width="3" marker-end="url(#arrow)" />
+  <line x1="500" y1="50" x2="420" y2="235" stroke="#000" stroke-width="3" marker-end="url(#arrow)" />
+  <line x1="500" y1="50" x2="500" y2="245" stroke="#000" stroke-width="3" marker-end="url(#arrow)" />
+  <line x1="500" y1="50" x2="580" y2="235" stroke="#000" stroke-width="3" marker-end="url(#arrow)" />
+  <line x1="500" y1="50" x2="670" y2="215" stroke="#000" stroke-width="3" marker-end="url(#arrow)" /> 
+  <line x1="500" y1="50" x2="752" y2="195" stroke="#000" stroke-width="3" marker-end="url(#arrow)" /> 
+
+<!--Circles-->
+
+  <circle cx="500" cy="50" r="40" stroke="black" stroke-width="2" fill="#ccffff" />
+
+  <circle cx="200" cy="220" r="40" stroke="black" stroke-width="2" fill="green" />
+  <circle cx="300" cy="260" r="40" stroke="black" stroke-width="2" fill="green" /> 
+  <circle cx="400" cy="285" r="40" stroke="black" stroke-width="2" fill="green" />
+  <circle cx="500" cy="300" r="40" stroke="black" stroke-width="2" fill="green" />
+  <circle cx="600" cy="285" r="40" stroke="black" stroke-width="2" fill="green" />
+  <circle cx="700" cy="260" r="40" stroke="black" stroke-width="2" fill="green" /> 
+  <circle cx="800" cy="220" r="40" stroke="black" stroke-width="2" fill="green" />
+
+</svg> 
+</center>
+<center><h2>Broadcast: one to many</h2></center>
+
+</body>
+</html> 
