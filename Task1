@@ -23,7 +23,7 @@
 
 <!--Circles-->
 
-  <circle cx="500" cy="50" r="40" stroke="black" stroke-width="2" fill="#ccffff" />
+  <circle cx="500" cy="50" r="45" stroke="black" stroke-width="2" fill="#ccffff" />
 
   <circle cx="200" cy="220" r="40" stroke="black" stroke-width="2" fill="green" />
   <circle cx="300" cy="260" r="40" stroke="black" stroke-width="2" fill="green" /> 
@@ -32,6 +32,10 @@
   <circle cx="600" cy="285" r="40" stroke="black" stroke-width="2" fill="green" />
   <circle cx="700" cy="260" r="40" stroke="black" stroke-width="2" fill="green" /> 
   <circle cx="800" cy="220" r="40" stroke="black" stroke-width="2" fill="green" />
+
+<!--Text-->
+
+<text x="455" y="55" fill="red">K.Berlizeva</text>
 
 </svg> 
 </center>
